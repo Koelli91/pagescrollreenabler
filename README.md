@@ -5,9 +5,6 @@ PageScroll Re-Enabler is a chrome extension that tries to re-enable the possibil
 ## Description
 Do you know these websites, where scrolling by mouse-wheel etc. isn't possible and you always have to drag the f*ckin scrollbar manually?
 This extension deals with this annoying problem and makes them comfortably scrollable again!
-## Problematic Websites
-Websites where I know this problem exists:
-[starwars.ea.com](http://starwars.ea.com/)
 ## Easy enabling/disabling
 The Extension can easily be disabled (e.g. when you're having problems with it) by a switch in the icon popup window (and easily be re-enabled again of course).
 
