@@ -1,0 +1,22 @@
+{
+  "extName": {
+    "message": "PageScroll (Re-)Enabler",
+    "description": "The name of the extension"
+  },
+  "extDescr": {
+    "message": "This extension re-enables the possibility to scroll by mouse-wheel on Websites, where this is'nt possible.",
+    "description": "The description of the extension"
+  },
+  "reloadMessage": {
+    "message": "Reload the page to apply changes.",
+    "description": "The message which is displayed on switching the on/off switch"
+  },
+  "switchOff": {
+    "message": "Off",
+    "description": "The off-state of the on/off-switch"
+  },
+  "switchOn": {
+    "message": "On",
+    "description": "The on-state of the on/off-switch"
+  }
+}

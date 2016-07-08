@@ -1,0 +1,22 @@
+{
+  "extName": {
+    "message": "PageScroll (Re-)Enabler",
+    "description": "Der Name der Erweiterung"
+  },
+  "extDescr": {
+    "message": "Diese Erweiterung reaktiviert die Möglichkeit per Mausrad zu scrollen auf Webseiten, wo dies sonst nicht funktioniert.",
+    "description": "Die Beschreibung der Erweiterung"
+  },
+  "reloadMessage": {
+    "message": "Aktualisiere die Seite, um die Änderungen zu sehen.",
+    "description": "Die Nachricht, die angezeigt wird, wenn der On/Off-Switch betätigt wird"
+  },
+  "switchOff": {
+    "message": "Aus",
+    "description": "Der ausgeschaltete Zustand des On/Off-Switches"
+  },
+  "switchOn": {
+    "message": "An",
+    "description": "Der eingeschaltete Zustand des On/Off-Switches"
+  }
+}
