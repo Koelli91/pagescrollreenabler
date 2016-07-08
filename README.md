@@ -15,4 +15,4 @@ PageScroll Re-Enabler is a chrome extension that tries to re-enable the possibil
 [https://chrome.google.com/webstore/detail/pagescroll-re-enabler/](https://chrome.google.com/webstore/detail/pagescroll-re-enabler/blpjdjlaldebanfhloffjonmhgkimapo)
 
 # Contribution
-Feel free to add locales :)
+Feel free to add locales :smiley:
