@@ -1,6 +1,6 @@
 # PageScroll (Re-)Enabler
 
-[![Chrome Web Store Badge](img/chrome-web-store-badge-medium.png)](https://chrome.google.com/webstore/detail/pagescroll-re-enabler/blpjdjlaldebanfhloffjo)
+[![Chrome Web Store Badge](img/chrome-web-store-badge-medium.png)](https://chrome.google.com/webstore/detail/pagescroll-re-enabler/blpjdjlaldebanfhloffjonmhgkimapo)
 
 Did you encounter websites, where scrolling using the mousewheel etc. wasn't possible at all and you had to manually drag the scroll bar?  
 This extension takes care of this annoying behaviour!
